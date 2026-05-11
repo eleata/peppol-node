@@ -25,10 +25,10 @@
   "homepage": "https://peppol.eleata.io",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eleata/peppol-node.git"
+    "url": "git+https://github.com/hernaninverso/peppol-node.git"
   },
   "bugs": {
-    "url": "https://github.com/eleata/peppol-node/issues"
+    "url": "https://github.com/hernaninverso/peppol-node/issues"
   },
   "engines": {
     "node": ">=18"
